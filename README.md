@@ -18,4 +18,8 @@ To get started:
 1. Download Ollama. If you don't have ollama installed, click this link to download ollama:  https://ollama.com/download
 2. Install the required packages. Go to requirements.txt, copy all the libraries, create a new file named install.txt, paste the librarys and run this command in your command prompt: pip install -r install.txt
 3. Copy the code in agent
-4. Voila, run the model
+4. Pull the ollama models. Once you have ollama installed, you should be able to type in this command: ollama pull qwen2.5:1.5b and ollama pull qwen3:1.7b
+    The models are only 1 giga each. Should run on cpu quite fast.
+
+   
+5. Voila, run the model
