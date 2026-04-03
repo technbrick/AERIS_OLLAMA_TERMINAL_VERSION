@@ -47,4 +47,4 @@ ollama pull qwen2.5:1.5b
 ollama pull qwen3:1.7b
 
 Run AERIS:
-python main.py
+python main_agent.py
