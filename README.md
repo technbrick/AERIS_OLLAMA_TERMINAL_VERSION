@@ -21,8 +21,10 @@ To get started(manual way):
 4. Pull the ollama models. Once you have ollama installed, you should be able to type in this command: ollama pull qwen2.5:1.5b and ollama pull qwen3:1.7b
     The models are only 1 giga each. Should run on cpu quite fast.
 
+5. Create your telegram_bot token and find your chat id
+   Watch this video for instructions in how to get your telegram_bot token and chat id: https://www.youtube.com/watch?v=l5YDtSLGhqk
    
-5. Voila, run the model
+7. Voila, run the agent
 
 
 
@@ -45,6 +47,12 @@ Then pull the required models:
 
 ollama pull qwen2.5:1.5b
 ollama pull qwen3:1.7b
+
+Tokens:
+create your telegram_bot token and find your chat id
+https://www.youtube.com/watch?v=l5YDtSLGhqk
+Watch the video above^ to get you telegram_bot token and chat_id
+
 
 Run AERIS:
 python main_agent.py
