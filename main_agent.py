@@ -478,8 +478,8 @@ def malaysia_news_to_telegram():
     import requests
     import xml.etree.ElementTree as ET
 
-    TELEGRAM_BOT_TOKEN = "8704972594:AAE8H9fcGJEjDPjA6w8t8mWdzn5CGClp5Og"
-    CHAT_ID = "7942417756"
+    TELEGRAM_BOT_TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"
+    CHAT_ID = "YOUR_CHAT_ID"
 
     print("Choose news type:")
     print("1. Financial articles")
