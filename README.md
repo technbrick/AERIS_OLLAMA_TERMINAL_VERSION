@@ -50,7 +50,9 @@ ollama pull qwen3:1.7b
 
 Tokens:
 create your telegram_bot token and find your chat id
+
 https://www.youtube.com/watch?v=l5YDtSLGhqk
+
 Watch the video above^ to get you telegram_bot token and chat_id
 
 
